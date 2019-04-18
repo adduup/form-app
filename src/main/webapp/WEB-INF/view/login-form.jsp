@@ -23,9 +23,7 @@
 	<c:if test="${param.error !=null}">
 		<i class="failed">Sorry! You have entered ivalid username/password</i>
 	</c:if>
-	<c:if test="${param.logout !=null}">
-		<i class="logout">You Have Been Logged Out</i>
-	</c:if>
+	
 
 	<table>
 		<tr>
@@ -40,6 +38,7 @@
 			<td><input type="submit" name="Login"></td>
 		</tr>
 	</table>
+		
 	</form:form>
 
 </body>
