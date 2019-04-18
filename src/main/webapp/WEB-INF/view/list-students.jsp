@@ -13,6 +13,9 @@
 	</div>
 </div>
 <div id="content">
+<input type="button" value="Countries"
+	onclick="window.location.href='listCountries'; return false;" />
+	<br/>
 	<input type="button" value="Add Student"
 	onclick="window.location.href='showFormForAdd'; return false;" />
 	<br/>

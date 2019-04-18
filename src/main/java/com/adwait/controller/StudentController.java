@@ -12,8 +12,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import com.adwait.model.Address;
+import com.adwait.model.Country;
 import com.adwait.model.Student;
 import com.adwait.service.AddressService;
+import com.adwait.service.CountryService;
 import com.adwait.service.StudentService;
 
 @Controller
@@ -24,12 +26,21 @@ public class StudentController {
 	StudentService studentService;
 	@Autowired
 	AddressService addressService;
+	@Autowired
+	CountryService countryService;
 
 	@GetMapping("/list")
 	public String listStudents(Model model) {
 		List<Student> students = studentService.showAllStudents();
 		model.addAttribute("students", students);
 		return "list-students";
+	}
+
+	@GetMapping("listCountries")
+	public String listCountries(Model model) {
+		List<Country> countries = countryService.showAllCountries();
+		model.addAttribute("countries", countries);
+		return "list-countries";
 	}
 
 	@GetMapping("/listAddress")

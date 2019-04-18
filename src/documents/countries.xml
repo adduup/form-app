@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+  <country code="US">
+    <name>A AAA</name>
+    <unMemberStatus>A AAA</unMemberStatus>
+    <sovereigntyDispute>A AAA</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZ↓ UN member states and observer states ↓</name>
+    <unMemberStatus>A AAA</unMemberStatus>
+    <sovereigntyDispute>ZZZ</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZAbkhazia → Abkhazia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Afghanistan – Islamic Republic of Afghanistan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Albania – Republic of Albania</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Algeria – People's Democratic Republic of Algeria</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Andorra – Principality of Andorra</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Andorra is a co-principality in which the office of head of state is jointly held ex officio by the French president and the bishop of the Roman Catholic diocese of Urgell,[2] who himself is appointed by the Holy See.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Angola – Republic of Angola</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Antigua and Barbuda</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Antigua and Barbuda is a Commonwealth realm[e] with 1 autonomous region, Barbuda.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Argentina – Argentine Republic[g]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Argentina is a federation of 23 provinces and 1 autonomous city.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Armenia – Republic of Armenia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>Not recognised by Pakistan.</sovereigntyDispute>
+    <moreInfo>Armenia is not recognised by Pakistan due to the dispute over Artsakh.[4][5][6]</moreInfo>
+  </country>
+  <country code="US">
+    <name>ZZZArtsakh → Artsakh</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Australia – Commonwealth of Australia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Australia is a Commonwealth realm[e] and a federation of six states and 10 territories. The external territories of Australia are:  Ashmore and Cartier Islands  Australian Antarctic Territory  Christmas Island  Cocos (Keeling) Islands  Coral Sea Islands Territory  Heard Island and McDonald Islands  Norfolk Island</moreInfo>
+  </country>
+  <country code="US">
+    <name> Austria – Republic of Austria</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the European Union.[c] Austria is a federation of nine states.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Azerbaijan – Republic of Azerbaijan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Azerbaijan contains one autonomous region, Nakhchivan [f] The de facto state of Artsakh has been established in the southwest of Azerbaijan.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Bahamas, The – Commonwealth of The Bahamas[8]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>The Bahamas is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Bahrain – Kingdom of Bahrain</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Bangladesh – People's Republic of Bangladesh</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Barbados</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Barbados is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Belarus – Republic of Belarus</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Belgium – Kingdom of Belgium</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] Belgium is a federation divided into linguistic communities and regions.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Belize</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Belize is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Benin – Republic of Benin</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Bhutan – Kingdom of Bhutan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Bolivia – Plurinational State of Bolivia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Bosnia and Herzegovina</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Bosnia and Herzegovina is a federation of two constituent units:  Federation of Bosnia and Herzegovina  Republika Srpska and Brčko District, a self-governing administrative unit.[9]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Botswana – Republic of Botswana</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Brazil – Federative Republic of Brazil</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Brazil is a federation of 26 states and 1 federal district.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Brunei – Nation of Brunei, the Abode of Peace</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Bulgaria – Republic of Bulgaria</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Burkina Faso</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Burma → Myanmar</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Burundi – Republic of Burundi</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Cambodia – Kingdom of Cambodia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Cameroon – Republic of Cameroon</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Canada[h]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Canada is a Commonwealth realm[e] and a federation of 10 provinces and 3 territories.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Cape Verde – Republic of Cabo Verde[i]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Central African Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Chad – Republic of Chad</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Chile – Republic of Chile</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> China – People's Republic of China[j]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>Partially unrecognised. B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>China contains five autonomous regions, Guangxi, Inner Mongolia, Ningxia, Tibet, and Xinjiang.[f] Additionally, it has sovereignty over the Special Administrative Regions of:  Hong Kong  Macau China claims, but does not control Taiwan, which is governed by a rival administration (the Republic of China) that claims all of China as its territory.[k] China is not recognised by 17 UN member states and the Holy See, which, with the exception of Bhutan, all recognise Taiwan instead.[l]</moreInfo>
+  </country>
+  <country code="US">
+    <name>China, Republic of → Taiwan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Colombia – Republic of Colombia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Comoros – Union of the Comoros</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Comoros is a federation of 3 islands.[m]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Congo, Democratic Republic of the[n]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Congo, Republic of the[o]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZCook Islands → Cook Islands</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Costa Rica – Republic of Costa Rica</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Côte d'Ivoire → Ivory Coast</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Croatia – Republic of Croatia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Cuba – Republic of Cuba</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Cyprus – Republic of Cyprus</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>Not recognised by Turkey[12]</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] The northeastern part of the island is the de facto state of Northern Cyprus. Cyprus is not recognised by Turkey due to the Cyprus dispute, with Turkey recognising Northern Cyprus.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Czech Republic[p]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name>Democratic People's Republic of Korea → Korea, North</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Democratic Republic of the Congo → Congo, Democratic Republic of the</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Denmark – Kingdom of Denmark</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] The Kingdom of Denmark includes 2 self-governing territories:  Faroe Islands  Greenland The continental territory of Denmark, the Faroe Islands, and Greenland form the three constituent countries of the Kingdom.[q] The Kingdom of Denmark as a whole is a member of the EU, but EU law does not apply to the Faroe Islands and Greenland.[13][14]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Djibouti – Republic of Djibouti</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Dominica – Commonwealth of Dominica</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Dominican Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> East Timor – Democratic Republic of Timor-Leste[r]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Ecuador – Republic of Ecuador</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Egypt – Arab Republic of Egypt</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> El Salvador – Republic of El Salvador</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Equatorial Guinea – Republic of Equatorial Guinea</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Eritrea – State of Eritrea</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Estonia – Republic of Estonia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Eswatini – Kingdom of Eswatini[s]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Ethiopia – Federal Democratic Republic of Ethiopia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Ethiopia is a federation of nine regions and two chartered cities.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Fiji – Republic of Fiji</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Fiji contains 1 autonomous region, Rotuma.[f][15][16]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Finland – Republic of Finland</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]  Åland is a neutral and demilitarised autonomous region of Finland.[f][t]</moreInfo>
+  </country>
+  <country code="US">
+    <name> France – French Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] France contains five overseas regions/departments: French Guiana, Guadeloupe, Martinique, Mayotte, and Réunion. France also includes the overseas territories of:  Clipperton Island  French Polynesia  New Caledonia  Saint Barthélemy  Saint Martin  Saint Pierre and Miquelon  Wallis and Futuna  French Southern and Antarctic Lands</moreInfo>
+  </country>
+  <country code="US">
+    <name> Gabon – Gabonese Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Gambia  Gambia, The – Republic of The Gambia[17]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Georgia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Georgia contains two autonomous republics, Adjara and Abkhazia.[f] In Abkhazia and South Ossetia, de facto states have been formed.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Germany – Federal Republic of Germany</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] Germany is a federation of 16 federated states.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Ghana – Republic of Ghana</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Greece – Hellenic Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] Greece contains one autonomous area, Mount Athos.[18]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Grenada</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Grenada is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Guatemala – Republic of Guatemala</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Guinea – Republic of Guinea[u]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Guinea-Bissau – Republic of Guinea-Bissau</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Guyana – Co-operative Republic of Guyana</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Haiti – Republic of Haiti</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Holy See → Vatican City</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Honduras – Republic of Honduras</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Hungary</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Iceland[v]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> India – Republic of India</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>India is a federation of 29 states and seven union territories.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Indonesia – Republic of Indonesia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Indonesia has five autonomous provinces, Aceh, Jakarta, Papua, West Papua, and Yogyakarta.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Iran – Islamic Republic of Iran</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Iraq – Republic of Iraq</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Iraq is a federation[m][22] of 19 governorates, five of which make up the autonomous Iraqi Kurdistan.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Ireland[w]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Israel – State of Israel</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>Partially unrecognised</sovereigntyDispute>
+    <moreInfo>Israel exerts strong control over the territory claimed by Palestine. Israel annexed East Jerusalem,[24] an annexation not recognised by the international community.[25] Israel maintains varying levels of control over the rest of the West Bank, and although Israel no longer has a permanent civilian or military presence in the Gaza Strip, following its unilateral disengagement, it is still considered by some to be the occupying power under international law.[26][27][28][29][30] Israel is not recognised as a state by 32 UN members and the Sahrawi Arab Democratic Republic. The Palestine Liberation Organization, which enjoys majority recognition as sole representative of the Palestinian people, also does not recognise Israel.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Italy – Italian Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] Italy has 5 autonomous regions, Aosta Valley, Friuli-Venezia Giulia, Sardinia, Sicily and Trentino-Alto Adige/Südtirol.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Ivory Coast – Republic of Côte d'Ivoire[x]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Jamaica</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Jamaica is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Japan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Jordan – Hashemite Kingdom of Jordan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Kazakhstan – Republic of Kazakhstan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Kenya – Republic of Kenya</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Kiribati – Republic of Kiribati</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Korea, North – Democratic People's Republic of Korea</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>North Korea is not recognised by three UN members, France, Japan, and South Korea, the last of which claims to be the sole legitimate government of Korea.[31]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Korea, South – Republic of Korea</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>South Korea has 1 autonomous region, Jejudo.[f][32] South Korea is not recognised by North Korea, which claims to be the sole legitimate government of Korea.</moreInfo>
+  </country>
+  <country code="US">
+    <name>ZZZKosovo → Kosovo</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Kuwait – State of Kuwait</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Kyrgyzstan – Kyrgyz Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Laos – Lao People's Democratic Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Latvia – Republic of Latvia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Lebanon – Lebanese Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Lesotho – Kingdom of Lesotho</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Liberia – Republic of Liberia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Libya – State of Libya</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Liechtenstein – Principality of Liechtenstein</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Lithuania – Republic of Lithuania</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Luxembourg – Grand Duchy of Luxembourg</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name>Macedonia → North Macedonia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Madagascar – Republic of Madagascar</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Malawi – Republic of Malawi</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Malaysia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Malaysia is a federation of 13 states and three federal territories.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Maldives – Republic of Maldives</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Mali – Republic of Mali</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Malta – Republic of Malta</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Marshall Islands – Republic of the Marshall Islands</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Under Compact of Free Association with the United States.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Mauritania – Islamic Republic of Mauritania</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Mauritius – Republic of Mauritius</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Mauritius has an autonomous island, Rodrigues.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Mexico – United Mexican States</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Mexico is a federation of 31 states and one autonomous city.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Federated States of Micronesia </name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Under Compact of Free Association with the United States. The Federated States of Micronesia is a federation of four states.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Moldova – Republic of Moldova</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Moldova has the autonomous regions of Gagauzia and Transnistria, the latter of which has established a de facto state.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Monaco – Principality of Monaco</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Mongolia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Montenegro</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Morocco – Kingdom of Morocco</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Part of the Moroccan-claimed Western Sahara is controlled by the partially recognised Sahrawi Arab Democratic Republic.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Mozambique – Republic of Mozambique</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Myanmar – Republic of the Union of Myanmar[y]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZNagorno-Karabakh → Artsakh</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Namibia – Republic of Namibia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Nauru – Republic of Nauru</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>   Nepal – Federal Democratic Republic of Nepal</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Nepal is a federation composed of 14 zones.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Netherlands – Kingdom of the Netherlands</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] The Kingdom of the Netherlands includes four areas with substantial autonomy:  Aruba  Curaçao  Netherlands  Sint Maarten The continental part of the Netherlands, Aruba, Curaçao, and Sint Maarten form the four constituent countries of the Kingdom. Three other territories (Bonaire, Saba, and Sint Eustatius) are special municipalities of the continental Netherlands.[z] The Kingdom of the Netherlands as a whole is a member of the EU, but EU law applies only to parts within Europe.</moreInfo>
+  </country>
+  <country code="US">
+    <name> New Zealand</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>New Zealand is a Commonwealth realm,[e] and has the dependent territories of:  Ross Dependency  Tokelau New Zealand has responsibilities for (but no rights of control over) two freely associated states:  Cook Islands  Niue The Cook Islands and Niue have diplomatic relations with 49 and 18 UN members respectively.[33][34][35] They have full treaty-making capacity in the UN,[36] and are members of some UN specialized agencies.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Nicaragua – Republic of Nicaragua</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Nicaragua contains two autonomous regions, Atlántico Sur and Atlántico Norte.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Niger – Republic of Niger</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Nigeria – Federal Republic of Nigeria</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Nigeria is a federation of 36 states and 1 federal territory.</moreInfo>
+  </country>
+  <country code="US">
+    <name>ZZZNiue → Niue</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>North Korea → Korea, North</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> North Macedonia – Republic of North Macedonia[aa]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZNorthern Cyprus → Northern Cyprus</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Norway – Kingdom of Norway</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Svalbard is an integral part of Norway, but has a special status due to the Svalbard Treaty. Jan Mayen is an island that is an integral part of Norway, although unincorporated. Norway has the dependent territories of: Bouvet Island Peter I Island Queen Maud Land</moreInfo>
+  </country>
+  <country code="US">
+    <name> Oman – Sultanate of Oman</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Pakistan – Islamic Republic of Pakistan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Pakistan is a federation of four provinces and 1 capital territory. Pakistan exercises control over certain portions of Kashmir, but has not officially annexed any of it,[37][38] instead regarding it as a disputed territory.[39][40] The portions that it controls are divided into two territories, administered separately from Pakistan proper:  Azad Kashmir  Gilgit Baltistan Azad Kashmir describes itself as a "self-governing state under Pakistani control", while Gilgit-Baltistan is described in its governance order as a group of "areas" with self-government.[41][42][43] These territories are not usually regarded as sovereign, as they do not fulfill the criteria set out by the declarative theory of statehood (for example, their current laws do not allow them to engage independently in relations with other states). Several state functions of these territories (such as foreign affairs and defence) are performed by Pakistan.[42][44][45]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Palau – Republic of Palau</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Under Compact of Free Association with the United States.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Palestine – State of Palestine</name>
+    <unMemberStatus>A UN observer state; member of 2 UN specialized agencies</unMemberStatus>
+    <sovereigntyDispute>Partially unrecognised. B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>The State of Palestine, declared in 1988, is not recognised as a state by Israel and has received diplomatic recognition from 137 states.[46] The proclaimed state has no agreed territorial borders, or effective control over much of the territory that it proclaimed.[47] The Palestinian National Authority is an interim administrative body formed as a result of the Oslo Accords that exercises limited autonomous jurisdiction within the Palestinian territories. In foreign relations, Palestine is represented by the Palestine Liberation Organization.[48] The State of Palestine is a member state of UNESCO,[49] UNIDO, and an observer state in the UN.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Panama – Republic of Panama</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Papua New Guinea – Independent State of Papua New Guinea</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Papua New Guinea is a Commonwealth realm[e] with 1 autonomous region, Bougainville.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Paraguay – Republic of Paraguay</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Peru – Republic of Peru</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Philippines – Republic of the Philippines</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>The Philippines contains one autonomous region, Bangsamoro.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Poland – Republic of Poland</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Portugal – Portuguese Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] Portugal contains two autonomous regions, the Azores and Madeira.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name>Pridnestrovie → Transnistria</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Qatar – State of Qatar</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Republic of Korea → Korea, South</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Republic of the Congo → Congo, Republic of the</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Romania</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Russia – Russian Federation</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Russia is a federation of 85 federal subjects (republics, oblasts, krais, autonomous okrugs, federal cities, and an autonomous oblast). Several of the federal subjects are ethnic republics.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Rwanda – Republic of Rwanda</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZSahrawi Arab Democratic Republic → Sahrawi Arab Democratic Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Saint Kitts and Nevis – Federation of Saint Christopher and Nevis</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Saint Kitts and Nevis is a Commonwealth realm[e] and is a federation[m] of two islands, St. Kitts and Nevis.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Saint Lucia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Saint Lucia is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Saint Vincent and the Grenadines</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Saint Vincent and the Grenadines is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Samoa – Independent State of Samoa</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> San Marino – Republic of San Marino</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> São Tomé and Príncipe – Democratic Republic of São Tomé and Príncipe</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>São Tomé and Príncipe contains 1 autonomous province, Príncipe.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Saudi Arabia – Kingdom of Saudi Arabia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Senegal – Republic of Senegal</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Serbia – Republic of Serbia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Serbia contains two autonomous regions, Vojvodina and Kosovo and Metohija.[f] The latter is under the de facto control of the Republic of Kosovo.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Seychelles – Republic of Seychelles</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Sierra Leone – Republic of Sierra Leone</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Singapore – Republic of Singapore</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Slovakia – Slovak Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Slovenia – Republic of Slovenia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Solomon Islands</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>The Solomon Islands is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Somalia – Federal Republic of Somalia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Somalia has two self-declared autonomous regions, Puntland and Galmudug, while the territory of Somaliland has formed an unrecognised de facto state.</moreInfo>
+  </country>
+  <country code="US">
+    <name>ZZZSomaliland → Somaliland</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> South Africa – Republic of South Africa</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>South Korea → Korea, South</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZSouth Ossetia → South Ossetia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> South Sudan – Republic of South Sudan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>South Sudan is a federation of 32 states. The Abyei Area is a zone with "special administrative status" established by the Comprehensive Peace Agreement in 2005. It is de-jure a condominium of South Sudan and Sudan, but de facto administered by two competeing administrations and the United Nations.[50][51]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Spain – Kingdom of Spain</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] Spain is divided into 17 autonomous communities and 2 special autonomous cities.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Sri Lanka – Democratic Socialist Republic of Sri Lanka[ab]</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Sudan – Republic of the Sudan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Sudan is a federation of 18 states. The Abyei Area is a zone with "special administrative status" established by the Comprehensive Peace Agreement in 2005. It is de-jure a condominium of South Sudan and Sudan, but de facto administered by two competeing administrations and the United Nations.[50][51]</moreInfo>
+  </country>
+  <country code="US">
+    <name>ZZZSudan, South → South Sudan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Suriname – Republic of Suriname</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Swaziland → Eswatini</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Sweden – Kingdom of Sweden</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c]</moreInfo>
+  </country>
+  <country code="US">
+    <name>  Switzerland – Swiss Confederation</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Switzerland is a federation of 26 cantons.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Syria – Syrian Arab Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>The Syrian National Coalition, which is recognised as the legitimate representative of the Syrian people by 20 UN members, has established an interim government to rule rebel controlled territory during the Syrian civil war. Syria has one self-declared autonomous region: Rojava.</moreInfo>
+  </country>
+  <country code="US">
+    <name>ZZZTaiwan (Republic of China) → Taiwan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Tajikistan – Republic of Tajikistan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Tajikistan contains 1 autonomous region, Gorno-Badakhshan Autonomous Province.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Tanzania – United Republic of Tanzania</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Tanzania contains 1 autonomous region, Zanzibar.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Thailand – Kingdom of Thailand</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>The Bahamas → Bahamas, The</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>The Gambia → Gambia, The</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>Timor-Leste → East Timor</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Togo – Togolese Republic</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Tonga – Kingdom of Tonga</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZTransnistria → Transnistria</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Trinidad and Tobago – Republic of Trinidad and Tobago</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Trinidad and Tobago contains 1 autonomous region, Tobago.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Tunisia – Republic of Tunisia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Turkey – Republic of Turkey</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Turkmenistan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Tuvalu</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Tuvalu is a Commonwealth realm.[e]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Uganda – Republic of Uganda</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Ukraine</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Ukraine claims Crimea as an autonomous republic, however it has been annexed by Russia.</moreInfo>
+  </country>
+  <country code="US">
+    <name> United Arab Emirates</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>The United Arab Emirates is a federation of seven emirates.</moreInfo>
+  </country>
+  <country code="US">
+    <name> United Kingdom – United Kingdom of Great Britain and Northern Ireland</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Member of the EU.[c] The United Kingdom is a Commonwealth realm[e] consisting of four constituent countries: England, Northern Ireland, Scotland, and Wales. The United Kingdom has the following overseas territories:  Akrotiri and Dhekelia  Anguilla  Bermuda  British Indian Ocean Territory  British Virgin Islands  Cayman Islands  Falkland Islands  Gibraltar  Montserrat  Pitcairn Islands  Saint Helena, Ascension and Tristan da Cunha  South Georgia and the South Sandwich Islands  Turks and Caicos Islands  British Antarctic Territory The British monarch has direct sovereignty over three self-governing Crown dependencies:  Guernsey  Isle of Man  Jersey</moreInfo>
+  </country>
+  <country code="US">
+    <name> United States – United States of America</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>The United States is a federation of 50 states with shared sovereignty, 1 federal district, and 1 incorporated territory. Additionally, the Federal government of the United States has sovereignty over 15 unincorporated territories. Of these territories the following are inhabited possessions:  American Samoa  Guam  Northern Mariana Islands  Puerto Rico  U.S. Virgin Islands It also has sovereignty over several uninhabited territories: Baker Island Howland Island Jarvis Island Johnston Atoll Kingman Reef Midway Atoll Navassa Island Wake Island It also disputes sovereignty over the following territories: Bajo Nuevo Bank Serranilla Bank Three sovereign states have become associated states of the United States under the Compact of Free Association:  Marshall Islands – Republic of the Marshall Islands  Micronesia – Federated States of Micronesia  Palau – Republic of Palau</moreInfo>
+  </country>
+  <country code="US">
+    <name> Uruguay – Oriental Republic of Uruguay</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Uzbekistan – Republic of Uzbekistan</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Uzbekistan contains 1 autonomous region, Karakalpakstan.[f]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Vanuatu – Republic of Vanuatu</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>  Vatican City – Vatican City State</name>
+    <unMemberStatus>A UN observer state under the designation of "Holy See"; member of three UN specialized agencies and the IAEA</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Administered by the Holy See, a sovereign entity with diplomatic relations to 183 states. This figure consists of 180 UN member states, the Cook Islands, the Republic of China (Taiwan), and the State of Palestine.[52] In addition, the European Union and the Sovereign Military Order of Malta maintain diplomatic relations with the Holy See. The Holy See is a member of the IAEA, ITU, UPU, and WIPO and a permanent observer of the UN (in the category of "Non-member State")[48] and multiple other UN System organizations. The Vatican City is governed by officials appointed by the Pope, who is the Bishop of the Diocese of Rome and ex officio sovereign of Vatican City.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Venezuela – Bolivarian Republic of Venezuela</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo>Venezuela is a federation of 23 states, 1 capital district, and federal dependencies.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Vietnam – Socialist Republic of Vietnam</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Yemen – Republic of Yemen</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Zambia – Republic of Zambia</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Zimbabwe – Republic of Zimbabwe</name>
+    <unMemberStatus>A UN member state</unMemberStatus>
+    <sovereigntyDispute>A None</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZ↑ UN member states and observer states ↑</name>
+    <unMemberStatus>A ZZZ</unMemberStatus>
+    <sovereigntyDispute>ZZZ</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZ</name>
+    <unMemberStatus>AB</unMemberStatus>
+    <sovereigntyDispute>B</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZ↓ Other states ↓</name>
+    <unMemberStatus>D AAA</unMemberStatus>
+    <sovereigntyDispute>ZZZ</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name> Abkhazia – Republic of Abkhazia</name>
+    <unMemberStatus>D No membership</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>Recognised by Russia, Nauru, Nicaragua, Venezuela, Artsakh, South Ossetia and Transnistria.[53] Claimed in whole by Georgia as the Autonomous Republic of Abkhazia.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Artsakh – Republic of Artsakh[ac]</name>
+    <unMemberStatus>D No membership</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>A de facto independent state,[54][55][56] recognised only by Abkhazia,[57] South Ossetia[57] and Transnistria.[57][58] Claimed in whole by Azerbaijan.[59]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Cook Islands</name>
+    <unMemberStatus>D Member of eight UN specialized agencies</unMemberStatus>
+    <sovereigntyDispute>A None (See political status)</sovereigntyDispute>
+    <moreInfo>A state in free association with New Zealand, the Cook Islands maintains diplomatic relations with 52 states. The Cook Islands is a member of multiple UN agencies with full treaty making capacity.[36] It shares a head of state with New Zealand as well as having shared citizenship.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Kosovo – Republic of Kosovo</name>
+    <unMemberStatus>D Member of two UN specialized agencies</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>Pursuant to United Nations Security Council Resolution 1244, Kosovo was placed under the administration of the United Nations Interim Administration Mission in Kosovo in 1999.[60] Kosovo declared independence in 2008, and it has received diplomatic recognition from 102 UN member states and the Republic of China. Serbia continues to maintain its sovereignty claim over Kosovo. Other UN member states and non UN member states continue to recognise Serbian sovereignty or have taken no position on the question. Kosovo is a member of the International Monetary Fund and the World Bank Group. The Republic of Kosovo has de facto control over most of the territory, with limited control in North Kosovo.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Niue</name>
+    <unMemberStatus>D Member of five UN specialized agencies</unMemberStatus>
+    <sovereigntyDispute>A None (See political status)</sovereigntyDispute>
+    <moreInfo>A state in free association with New Zealand, Niue maintains diplomatic relations with 20 states. Niue is a member of multiple UN agencies with full treaty making capacity.[36] It shares a head of state with New Zealand as well as having shared citizenship.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Northern Cyprus – Turkish Republic of Northern Cyprus</name>
+    <unMemberStatus>D No membership</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>Recognised only by Turkey. Under the name "Turkish Cypriot State", it is an observer state of the Organisation of Islamic Cooperation and the Economic Cooperation Organization. Northern Cyprus is claimed in whole by the Republic of Cyprus.[61]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Sahrawi Arab Democratic Republic</name>
+    <unMemberStatus>D No membership</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>Recognised at some stage by 84 UN member states, 40 of which have since withdrawn or frozen their recognition. It is a founding member of the African Union and the Asian–African Strategic Partnership formed at the 2005 Asian–African Conference. The territories under its control, the so-called Free Zone, are claimed in whole by Morocco as part of its Southern Provinces. In turn, the Sahrawi Arab Democratic Republic claims the part of Western Sahara to the west of the Moroccan Wall controlled by Morocco. Its government resides in exile in Tindouf, Algeria.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Somaliland – Republic of Somaliland</name>
+    <unMemberStatus>D No membership</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>A de facto independent state,[54][62][63][64][65] not diplomatically recognised by any other state, claimed in whole by the Federal Republic of Somalia.[66]</moreInfo>
+  </country>
+  <country code="US">
+    <name> South Ossetia – Republic of South Ossetia–the State of Alania</name>
+    <unMemberStatus>D No membership</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>A de facto independent state,[67] recognised by Russia, Nicaragua, Nauru, Syria, Venezuela, Abkhazia, Artsakh and Transnistria. Claimed in whole by Georgia as the Provisional Administrative Entity of South Ossetia.[68]</moreInfo>
+  </country>
+  <country code="US">
+    <name> Taiwan – Republic of China[j]</name>
+    <unMemberStatus>DFormer UN member (as Republic of China, 1945–1971) Observer in one UN specialized agency under the name "Chinese Taipei"</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>A state competing (nominally) for recognition with the People's Republic of China (PRC) as the government of China since 1949. The Republic of China (ROC) controls the island of Taiwan and associated islands, Quemoy, Matsu, the Pratas and parts of the Spratly Islands, and has not renounced claims over its annexed territories on the mainland.[69] The ROC is recognised by 16 UN member states and the Holy See as of 21 August 2018. All these states do not recognise the PRC either. Additionally, one UN member (Bhutan) has refrained from recognising either the ROC or the PRC. The territory of the ROC is claimed in whole by the PRC.[k] The ROC participates in international organizations under a variety of pseudonyms, most commonly "Chinese Taipei" and in the WTO it has full membership. The ROC was a founding member of the UN and enjoyed membership from 1945 to 1971, with veto power in the UN Security Council. See China and the United Nations.</moreInfo>
+  </country>
+  <country code="US">
+    <name> Transnistria – Pridnestrovian Moldavian Republic</name>
+    <unMemberStatus>D No membership</unMemberStatus>
+    <sovereigntyDispute>B Claimed by Georgia Claimed by North Korea Claimed by Serbia Claimed by Somalia Claimed by the People's Republic of China Claimed by the Republic of China Claimed by South Korea Claimed by Azerbaijan Claimed by the Republic of Cyprus Disputed by Israel Claimed by Mauritius Claimed by Morocco Claimed by Moldova Claimed by Mali Claimed by Spain</sovereigntyDispute>
+    <moreInfo>A de facto independent state,[54] recognised only by Abkhazia, Artsakh and South Ossetia.[53] Claimed in whole by Moldova as the Transnistria autonomous territorial unit.[70]</moreInfo>
+  </country>
+  <country code="US">
+    <name>ZZZ↑ Other states ↑</name>
+    <unMemberStatus>D ZZZ</unMemberStatus>
+    <sovereigntyDispute>ZZZ</sovereigntyDispute>
+    <moreInfo />
+  </country>
+  <country code="US">
+    <name>ZZZZ</name>
+    <unMemberStatus>ZZZZ</unMemberStatus>
+    <sovereigntyDispute>ZZZZ</sovereigntyDispute>
+    <moreInfo />
+  </country>
+</countries>
