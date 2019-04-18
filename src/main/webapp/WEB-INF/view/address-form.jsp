@@ -2,7 +2,7 @@
 
 
 
-<%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"  %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +21,7 @@
 		
 		
                 
-              <form:input path="studentId" />
+              <form:hidden path="studentId" />
             
 			<table>
 				<tbody>

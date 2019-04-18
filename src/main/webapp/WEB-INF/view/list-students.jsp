@@ -13,18 +13,27 @@
 	</div>
 </div>
 <div id="content">
+	<p>
 <input type="button" value="Countries"
 	onclick="window.location.href='listCountries'; return false;" />
-	<br/>
+	</p>
+	<p>
 	<input type="button" value="Add Student"
 	onclick="window.location.href='showFormForAdd'; return false;" />
-	<br/>
+	 </p>
+	 <p>
 	<input type="button" value="Sort By First Name"
 	onclick="window.location.href='listByFirst'; return false;" />
-	<br/>
+	 </p>
+	 <p>
 	<input type="button" value="Sort By Last Name"
 	onclick="window.location.href='listByLast'; return false;" />
-	<br/>
+	 </p>
+	 <p>
+	 	<form:form action="${contextPath}/logout" method="POST">
+	 		<input type="submit" value="Log Out">
+	 	</form:form>
+	 </p>
 	    <form:form action="search" method="GET">
                 Search By First Name: <input type="text" name="searchName" />
                 
