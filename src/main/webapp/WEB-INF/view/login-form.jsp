@@ -16,7 +16,7 @@
 	</style>
 </head>
 <body>
-	<h3>Login Page</h3>
+	<h3>Login Page Sup Dog</h3>
 
 	
 	<form:form action="${contextPath}/authenticateTheUser" method="POST">
